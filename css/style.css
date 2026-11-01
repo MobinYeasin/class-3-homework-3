@@ -1,0 +1,57 @@
+*{margin: 0;
+ padding: 0;
+}
+
+h1 {color:goldenrod} 
+
+.discoverjapan{
+    
+    color: blueviolet;}
+
+#sushi{color: aquamarine;}
+#ramen{color: blueviolet;}
+#tempura{color: brown;}
+#mochi{color: cadetblue;}
+
+
+.inventory{    
+    justify-content: space-evenly;
+    display: flex;
+    height: 100%;
+    width: 110%;
+    background: lightblue;
+ }
+ .box1{
+    height: 100%;
+    width: 100%;
+    background: burlywood;
+    margin: 20px 20px 20px 20px ;
+    text-align: center;
+ }
+
+.box1 h3 { padding-top: 10px;
+    padding-left: 145px;  
+ }
+
+
+ .box2{
+    height: 100%;
+    width: 100%;
+    background: burlywood;
+    margin: 20px 20px 20px 20px ;
+    text-align: center;
+ }
+ .box3{
+    height: 100%;
+    width: 100%;
+    background: burlywood;
+    margin: 20px 20px 20px 20px ;
+    text-align: center;
+ }
+ .box4{
+    height: 100%;
+    width: 100%;
+    background: burlywood;
+    margin: 20px 20px 20px 20px ;
+    text-align: center;
+ }
